@@ -21,7 +21,7 @@ var umbIcons = {
     "pathToSvgs": "./BackofficeIcons/",
     "umbracoPath": "../Umbraco.Web/",
     "iconPath": "App_Plugins/BackofficeIcons/",
-    "cssFileName": "icons-ecreo.css"
+    "cssFileName": "icons-skttl.css"
 }
 
 gulp.task("generateIconFont",
