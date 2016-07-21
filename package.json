@@ -5,6 +5,7 @@
     "gulp": "^3.9.1",
     "gulp-iconfont": "^8.0.0",
     "gulp-iconfont-css": "^2.1.0",
+    "gulp-modify-css-urls": "^0.2.2",
     "gulp-util": "^3.0.7",
     "speakingurl": "^9.0.0"
   }
