@@ -17,10 +17,10 @@ function string_src(filename, string) {
 
 
 var umbIcons = {
-    "fontName": "ecreo",
+    "fontName": "skttl",
     "pathToSvgs": "./BackofficeIcons/",
-    "umbracoPath": "../Ecreo.Web/",
-    "iconPath": "App_Plugins/Ecreo.BackofficeIcons/",
+    "umbracoPath": "../Umbraco.Web/",
+    "iconPath": "App_Plugins/BackofficeIcons/",
     "cssFileName": "icons-ecreo.css"
 }
 
